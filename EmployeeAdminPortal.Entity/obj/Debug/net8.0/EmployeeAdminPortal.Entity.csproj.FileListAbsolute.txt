@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\bin\Debug\net8.0\EmployeeAdminPortal.Entity.deps.json
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\bin\Debug\net8.0\EmployeeAdminPortal.Entity.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\bin\Debug\net8.0\EmployeeAdminPortal.Entity.pdb
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\EmployeeAdminPortal.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\EmployeeAdminPortal.Entity.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\EmployeeAdminPortal.Entity.AssemblyInfo.cs
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\EmployeeAdminPortal.Entity.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\EmployeeAdminPortal.Entity.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\refint\EmployeeAdminPortal.Entity.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\EmployeeAdminPortal.Entity.pdb
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\ref\EmployeeAdminPortal.Entity.dll
