@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\EmployeeAdminPortal.Services.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\EmployeeAdminPortal.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\EmployeeAdminPortal.Services.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\EmployeeAdminPortal.Services.AssemblyInfo.cs
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\EmployeeAdminPortal.Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\bin\Debug\net8.0\EmployeeAdminPortal.Services.deps.json
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\bin\Debug\net8.0\EmployeeAdminPortal.Services.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\bin\Debug\net8.0\EmployeeAdminPortal.Services.pdb
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\bin\Debug\net8.0\EmployeeAdminPortal.Data.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\bin\Debug\net8.0\EmployeeAdminPortal.Entity.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\bin\Debug\net8.0\EmployeeAdminPortal.Data.pdb
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\bin\Debug\net8.0\EmployeeAdminPortal.Entity.pdb
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\Employee.A6ECC3FF.Up2Date
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\EmployeeAdminPortal.Services.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\refint\EmployeeAdminPortal.Services.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\EmployeeAdminPortal.Services.pdb
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\ref\EmployeeAdminPortal.Services.dll
